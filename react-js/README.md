@@ -25,7 +25,7 @@
 ## Tech Stack
 
 Frontend
-1. ReactJS: Framework used to build the app.
+1. React.JS: Framework used to build the app.
 2. Tailwind CSS: For modern, responsive, and utility-first styling.
 
 
